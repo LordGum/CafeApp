@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StepikCafe</string>
+    <string name="greeting">Добро пожаловать</string>
+    <string name="userName_hint">Имя пользователя</string>
+    <string name="passowrd_hint">Пароль</string>
+    <string name="sing_in_botton">Войти</string>
+    <string name="dunkin_donuts">Dunkin Donuts</string>
+    <string name="greeting_user">Привет, %s! Что желаете?</string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="AddictionsQuestion">Что добавить в ваш %s</string>
+    <string name="sugar">Сахар</string>
+    <string name="milk">Молоко</string>
+    <string name="lemon">Лимон</string>
+    <string name="ChooseTypeOfDrink">Выберете тип напитка</string>
+    <string name="makeOrder">СДЕЛАТЬ ЗАКАЗ</string>
+    <string name="name">Имя:</string>
+    <string name="drink">Напиток:</string>
+    <string name="drink_type">Тип напитка:</string>
+    <string name="additives_label">Добавки:</string>
+    <string name="hint">"Пожайлуста, заполните поля!"</string>
+
+
+    <array name="types_of_tea">
+        <item>Зеленый</item>
+        <item>Черный</item>
+    </array>
+
+    <array name="types_of_coffee">
+        <item>Американо</item>
+        <item>Экспрессо</item>
+        <item>Латте</item>
+    </array>
+</resources>
